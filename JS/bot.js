@@ -5,8 +5,8 @@ console.log('Starting...')
 function createBot () {
     const bot = mineflayer.createBot({
     host: "localhost",
-    port: "25565",
-    username: "24ATERNOSBOT",
+    port: "21437"
+    username: "viT",
     version: false
     })
     bot.on('login', function() {
